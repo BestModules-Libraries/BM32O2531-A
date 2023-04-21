@@ -1,0 +1,43 @@
+##############################################
+# Coloring Map For （ ）
+##############################################
+##############################################
+# Classes and Objects (KEYWORD1)
+##############################################
+LCD	KEYWORD1
+BM32O2531_A	KEYWORD1
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+
+begin	KEYWORD2
+reset	KEYWORD2
+standby	KEYWORD2
+wakeUp	KEYWORD2
+setEID	KEYWORD2
+setAction	KEYWORD2
+getFWVer	KEYWORD2
+clearScreen	KEYWORD2
+setScreenON	KEYWORD2
+setScreenOFF	KEYWORD2
+showMultipleChars	KEYWORD2
+showChar	KEYWORD2
+showString	KEYWORD2
+showNum	KEYWORD2
+
+##############################################
+# Constants (LITERAL1)
+##############################################
+SUCCESS	LITERAL1
+FAIL	LITERAL1
+NO_ACK	LITERAL1
+BMD51M001_BAUD	LITERAL1
+_intPin	LITERAL1
+_rxPin	LITERAL1
+_txPin	LITERAL1
+retnum	LITERAL1
+FONT_5x7	LITERAL1
+FONT_8x16	LITERAL1
+BM32O2531_A_DISPLAY_ON	LITERAL1
+BM32O2531_A_DISPLAY_OFF	LITERAL1
+
