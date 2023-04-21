@@ -5,7 +5,7 @@
 BM32O2531-A
 ===========================================================
 
-BM32O2531-A is an LCD display module launched by Flextron, using 9-bit single-wire bidirectional UART communication Letter way.This document describes the Arduino Lib function and Arduino Lib installation method for the BM32O2531-A Line description; Examples demonstrate functions such as displaying output on an LCD display module.
+BM32O2531-A is an LCD display module launched by Flextron, using 9-bit single-wire bidirectional UART communication method.This document describes the Arduino Lib function and Arduino Lib installation method for the BM32O2531-A Line description; Examples demonstrate functions such as displaying output on an LCD display module.
 
 This library can be installed via the Arduino Library manager. Search for **BM32O2531-A**. 
 
